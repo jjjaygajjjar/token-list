@@ -6,13 +6,11 @@
   "name": "UniFi",
   "decimals": 9,
   "logoURI": "https://ufc-logo.netlify.app/logo.png",
-  "tags": ["utility-token"],
+  "tags": ["utility-token", "community"],
   "extensions": {
     "website": "https://unifi-global.xyz",
-    "description": "UniFi (UFC) is the Universal Financial Coin — One Coin for the One World.",
-    "twitter": "https://twitter.com",  
-    "telegram": "https://t.me",         
-    "github": "https://github.com",     
-    "whitepaper": "https://unifi-global.xyz"
+    "twitter": "https://x.com/UniFi41737?t=68KgqIDbm7S-wAD6cMZW4Q&s=09",
+    "telegram": "https://t.me/UniFi_theuniversalfinancial_coin",
+    "description": "UniFi (UFC) is a universal financial token built on Solana for seamless global payments, staking rewards, and DAO governance. One Coin for the One World."
   }
 }
